@@ -27,7 +27,6 @@ Below is a visual example of model predictions, including predicted class, actua
 
 ![Sample Output](samples/output_example.png)
 
-*(Replace with your actual screenshot in `samples/output_example.png`.)*
 
 ---
 
