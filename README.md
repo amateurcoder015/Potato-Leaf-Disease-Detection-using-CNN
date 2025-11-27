@@ -25,7 +25,7 @@ Trained for **20 epochs**, the model achieved:
 
 Below is a visual example of model predictions, including predicted class, actual class, and confidence:
 
-![Sample Output](samples/output_example.png)
+![Sample Output](samples/example_output.png)
 
 
 ---
